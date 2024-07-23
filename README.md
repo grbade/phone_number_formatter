@@ -21,7 +21,7 @@ To use the phone number formatting script, follow these steps:
 
    ```bash
    git clone https://github.com/grbade/phone_number_formatter.git
-   cd phone-number-formatting
+   cd phone_number_formatter
    ```
 
 2. **Install Required Libraries:**
@@ -63,7 +63,7 @@ Follow these steps to format phone numbers using the script:
    Open a terminal and navigate to the directory containing the script. Run the script with:
 
    ```bash
-   python3 phone_number_formatting.py
+   python3 format_phone_numbers.py
    ```
 
 3. **Copy the Results:**
@@ -96,9 +96,9 @@ This format will display the phone numbers with a `+` sign and the correct numbe
 
 | Phone Number | Country      |
 |--------------|--------------|
-| 355699823345 | Albania      |
-| 614323322342 | Australia    |
-| 43660112355  | Austria      |
+| 00355699823345 | Albania      |
+| 4323322342 | Australia    |
+| 043660112355  | Austria      |
 
 **Output Data:**
 
